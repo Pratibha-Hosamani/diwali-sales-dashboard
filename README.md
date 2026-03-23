@@ -8,5 +8,5 @@ Power BI / KPIS / Dax formulas
 -profit analysis
 
 -category insights
-## Dashbaord Preview 
-![Dashbaord] (diwali sales dashboard.png)
+## Dashboard Preview 
+![Dashboard] (diwali sales dashboard.png)
