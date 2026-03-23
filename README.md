@@ -8,3 +8,5 @@ Power BI / KPIS / Dax formulas
 -profit analysis
 
 -category insights
+## Dashbaord Preview 
+![Dashbaord] (dashboard.png)
