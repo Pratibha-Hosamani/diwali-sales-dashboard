@@ -1,5 +1,5 @@
 # Diwali sales Dashboard
-This project shows sales analysis using 
+This project shows sales analysis 
 ## Tools used 
 Power BI / KPIS / Dax formulas
 ## Features
