@@ -9,4 +9,4 @@ Power BI / KPIS / Dax formulas
 
 -category insights
 ## Dashboard Preview 
-![Dashboard] ([https://github.com/Pratibha-Hosamani/diwali-sales-dashboard/blob/main/diwali%20sales%20dashboard.png](https://github.com/Pratibha-Hosamani/diwali-sales-dashboard/blob/main/dashboard.png))
+![Dashboard] (dashboard.png)
