@@ -4,5 +4,7 @@ This project shows sales analysis using
 Excel
 ## Features
 -sales overview
+
 -profit analysis
+
 -category insights
