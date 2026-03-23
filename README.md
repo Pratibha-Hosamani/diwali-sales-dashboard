@@ -9,4 +9,5 @@ Power BI / KPIS / Dax formulas
 
 -category insights
 ## Dashboard Preview 
-![Dashboard] (dashboard.png)
+![Uploading diwali sales dashboard.png…]()
+
