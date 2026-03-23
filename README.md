@@ -3,7 +3,7 @@ This project shows sales analysis using
 ## Tools used 
 Power BI /
 KPIS /   
-Dashboard
+Dashboard/
 ## Features
 -sales overview
 
