@@ -3,11 +3,11 @@ This project shows sales analysis
 ## Tools used 
 Power BI / KPIS / Dax formulas
 ## Features
-- Interactive sales overview
+ - Interactive sales overview
 
--profit analysis
+ -profit analysis
 
--category insights
+ -category insights
 ## Dashboard Preview 
 <img width="1343" height="744" alt="diwali sales dashboard" src="https://github.com/user-attachments/assets/bbc2c0bc-7e44-4942-8ec9-f391fa0dc65e" />
 
