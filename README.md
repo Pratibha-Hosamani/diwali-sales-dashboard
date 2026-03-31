@@ -25,18 +25,18 @@
   - Orders
   - Amount
 ## Key Insights
-  - Total sales and total orders analysis
-  - Sales comparison by gender and age group
-  - Sales analysis by state and city
-  - Top product categories and products
-  - Customer purchasing patterns during Diwali
+  - Customers aged 26–35 contribute the highest sales during Diwali.
+  - Female customers spend more compared to male customers.
+  - IT, Healthcare, and Government occupations show higher purchasing activity.
+  - Some states generate more revenue, showing regional sales trends.
 ## Dashboard Features
-  - Identified which age group spent the most
-  - Found top states contributing to sales
-  - Highlighted most popular product categories
-  - Compared male vs female purchasing behavior
+  - Interactive Power BI dashboard for Diwali sales analysis.
+  - KPI cards showing Total Revenue, Orders, Customers, and Average Order Value.
+  - Visual analysis by Gender, Age Group, State, Product Category, and Occupation.
+  - Filters and slicers to explore data easily.
 ## Conclusion
-   The dashboard helps businesses understand customer trends during Diwali and supports data-driven decisions for marketing, inventory planning, and sales 
+   The dashboard helps understand customer behavior, sales trends, and popular product categories during the Diwali season. Businesses can use these insights to improve 
+   marketing strategies and increase sales.
    strategies.
 # Dashboard Preview 
 <img width="1326" height="759" alt="diwali" src="https://github.com/user-attachments/assets/7ef7df49-d33b-4575-9ea4-3d3344161068" />
